@@ -1,2 +1,3 @@
-fastapi
+fastapi[all]
 unicorn
+firebase-admin==6.2.0
